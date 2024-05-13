@@ -1,12 +1,12 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  base: '/dumi',
-  publicPath: '/dumi/',
-  favicons: ['/dumi/favicon.ico'],
+  base: '/react',
+  publicPath: '/react/',
+  favicons: ['/react/favicon.ico'],
   themeConfig: {
     name: 'React',
-    logo:'/dumi/favicon.ico',
+    logo:'/react/favicon.ico',
     github: 'https://github.com/Leon-Amazing',
     title: 'React',
     description: "Leon's library",
